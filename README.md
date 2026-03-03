@@ -1,3 +1,3 @@
 # PR1
-Projekt za kolegij Softversko inžinjerstvo
+Ovo definitivno nije projekt za kolegij Softversko inžinjerstvo
 
